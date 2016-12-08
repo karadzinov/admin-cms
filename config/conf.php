@@ -14,3 +14,4 @@ $con = mysqli_connect("localhost", "dns_db", "owe04gus", "dns_db");
 $con->set_charset('utf8');
 require_once ("functions.php");
 ?>
+
