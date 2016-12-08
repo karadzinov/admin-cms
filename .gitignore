@@ -1,1 +1,9 @@
-/config
+/config/conf.php
+/config/config.php
+
+.idea/vcs.xml
+ckfinder/userfiles/_thumbs/
+ckfinder/userfiles/files/
+ckfinder/userfiles/flash/
+ckfinder/userfiles/images/
+files/
